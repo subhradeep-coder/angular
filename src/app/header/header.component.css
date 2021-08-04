@@ -1,0 +1,19 @@
+mat-toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  button {
+    outline: none;
+    border: 0;
+    background: darkolivegreen;
+  }
+  .user {
+    font-size: 14px;
+  }
+  mat-toolbar {
+    background: #635959;
+  }
+  
+  

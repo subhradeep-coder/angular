@@ -1,8 +1,19 @@
-:host {
+.page {
+    color: rgb(17, 17, 17);
+    padding: 0 1rem;
+    background: #fdfdfd;
+}
+  
+#st {
+    text-align: center;
+  }
+  
+   
+ 
+  :host {
     display: flex;
     flex-direction: column;
     height: 100%;
-    background-color: olivedrab;
   }
   
   mat-drawer {
@@ -13,6 +24,7 @@
   }
   
   mat-drawer {
-    background:lawngreen;
+    background: rosybrown;
   }
- 
+  
+    
